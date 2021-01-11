@@ -1,6 +1,7 @@
 /**
 *  Create a method that accepts a number and modifies it such that the each of the digit in the newly formed number is equal to the difference between two consecutive digits in the original number. 
 *  The digit in the units place can be left as it is.
+
 *  @author 
 *  Saravana prasath c
 * 
